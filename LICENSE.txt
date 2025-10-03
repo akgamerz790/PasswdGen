@@ -1,7 +1,8 @@
 Personal Use & Mods License (PUML)
 =================================
 
-Copyright (c) <YEAR> <COPYRIGHT HOLDER>
+Copyright (c) 2025 akgamerz_790
+
 
 Permission is granted, free of charge, to any person obtaining a copy of this
 software and associated documentation files (the "Software"), to use the
@@ -36,7 +37,7 @@ following conditions.
    If you publish or distribute a Modified Work publicly (for example on a
    public code host or download site), you agree to make a reasonable effort
    to notify the original copyright holder at:
-      <CONTACT_EMAIL_OR_HANDLE>
+            @akgamerz790
    Notification may be a brief message stating the name of the Modified Work,
    link to the Modified Work, and the OG repo link. Failure to notify does not
    invalidate the license grant, but notification is requested as a courtesy.
@@ -46,10 +47,44 @@ following conditions.
    Redistributions of the Software or any Modified Work must include the
    copyright notice above and a copy of this license. In addition, include
    the OG repo link:
-      Original repository: <OG_REPO_URL>
+      Original repository: https://github.com/akgamerz790/PasswdGen
 
 5. No Fees or Royalties
    ---------------------
    No fee, royalty, or licensing charge of any kind may be imposed on the use,
    distribution, or publication of the Software or any Modified Work beyond the
-   obligations in this license (notification and OG repo link). C
+   obligations in this license (notification and OG repo link). Contributors
+   and distributors may not require payment in exchange for providing the
+   Software or Modified Works.
+
+6. Warranty Disclaimer
+   ---------------------
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+7. Liability Limitation
+   ---------------------
+   IN NO EVENT WILL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY
+   DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+   ARISING IN ANY WAY OUT OF THE USE OF THE SOFTWARE, EVEN IF ADVISED OF THE
+   POSSIBILITY OF SUCH DAMAGE.
+
+8. Termination
+   ------------
+   This license will terminate automatically if you breach the terms (for
+   example by using the Software commercially). Termination does not relieve
+   you of obligations incurred before termination (for example, the obligation
+   to include the OG repo link in previously distributed Modified Works).
+
+9. Interpretation
+   ----------------
+   This license is intended to be interpreted reasonably and in good faith.
+   If any provision is found unenforceable, the remaining provisions remain
+   in effect.
+
+END OF LICENSE
