@@ -15,7 +15,8 @@ class PasswordGenerator
 
         // Ask for base keyword
         Console.Write("Enter base keyword (default: akgamerz_790): ");
-        string inputKeyword = Console.ReadLine();
+        string inputKeyword = Console.ReadLine() ?? ""; // provide a default empty string if null
+        //string? inputKeyword = Console.ReadLine(); // allow nullable input string  [Deprecated in favor of above line]
         string baseKeyword = !string.IsNullOrWhiteSpace(inputKeyword) ? inputKeyword : "akgamerz_790";
 
         Random rand = new Random();
