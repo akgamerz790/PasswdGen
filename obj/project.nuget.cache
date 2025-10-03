@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "bPgKvC88v4E=",
+  "success": false,
+  "projectFilePath": "C:\\tools\\PasswdGen\\PASSWDGEN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROCKDGYT\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ROCKDGYT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ROCKDGYT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ROCKDGYT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package System.Security.Cryptography.Algorithms with version (>= 6.0.0)\r\n  - Found 9 version(s) in nuget.org [ Nearest version: 4.3.1 ]",
+      "libraryId": "System.Security.Cryptography.Algorithms",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
