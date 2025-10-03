@@ -1,5 +1,7 @@
 using System;
 using System.Text;
+using System.Diagnostics;
+
 
 class PasswordGenerator
 {
@@ -22,18 +24,28 @@ class PasswordGenerator
         Random rand = new Random();
 
         // Random replacement in base keyword
-        StringBuilder keywordBuilder = new StringBuilder();
-        foreach (char c in baseKeyword)
-        {
-            if ((c == 'S' || c == 's') && rand.Next(2) == 0)
-                keywordBuilder.Append('$');
-            else if ((c == 'a' || c == 'A') && rand.Next(2) == 0)
-                keywordBuilder.Append('@');
-            else
-                keywordBuilder.Append(c);
-        }
-        string processedKeyword = keywordBuilder.ToString();
+        SStringBuilder keywordBuilder = new StringBuilder();
 
+            foreach (char c in baseKeyword)
+            {
+                if ((c == 'S' || c == 's') && rand.Next(2) == 0)
+                {
+                    keywordBuilder.Append('$');
+                    Debug.WriteLine("Replaced 's' with '$'"); // Debug line
+                }
+                else if ((c == 'a' || c == 'A') && rand.Next(2) == 0)
+                {
+                    keywordBuilder.Append('@');
+                    Debug.WriteLine("Replaced 'a' with '@'"); // Debug line
+                }
+                else
+                {
+                    keywordBuilder.Append(c);
+                    Debug.WriteLine($"Kept character '{c}' unchanged"); // Debug line
+                }
+            }
+
+            string processedKeyword = keywordBuilder.ToString();
         // Generate random characters
         string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*";
         int remainingLength = totalLength - processedKeyword.Length;
