@@ -1,1 +1,55 @@
-This updated [README.md](https://github.com/akgamerz790/PasswdGen/LICENSE.txt) includes details about how the program works, its features, and an example of its usage.
+Personal Use & Mods License (PUML)
+=================================
+
+Copyright (c) <YEAR> <COPYRIGHT HOLDER>
+
+Permission is granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the "Software"), to use the
+Software **for personal, non-commercial purposes only**, subject to the
+following conditions.
+
+1. Personal Use Only
+   ------------------
+   You may use, run, and interact with the Software on devices you personally
+   control for private, non-commercial uses. "Personal" means use by an
+   individual for that individual's private or household purposes and does not
+   include sale, rental, commercial deployment, hosting, or any use that
+   directly or indirectly generates revenue (monetary or equivalent) for a
+   person or organization.
+
+2. Modifications and Publishing
+   -----------------------------
+   You may modify the Software (create "Modified Works") and publish or
+   distribute those Modified Works **freely** under the terms of this same
+   license, provided that:
+   a. The Modified Work continues to be available only for personal, non-
+      commercial use (see Section 1).
+   b. The Modified Work is licensed under this same Personal Use & Mods
+      License (PUML). Recipients of the Modified Work must receive the same
+      permissions and restrictions.
+   c. You include, in the Modified Work's repository or distribution, an
+      explicit link to the original project (the "OG repo") and a short
+      notice describing the changes you made.
+
+3. Notification
+   --------------
+   If you publish or distribute a Modified Work publicly (for example on a
+   public code host or download site), you agree to make a reasonable effort
+   to notify the original copyright holder at:
+      <CONTACT_EMAIL_OR_HANDLE>
+   Notification may be a brief message stating the name of the Modified Work,
+   link to the Modified Work, and the OG repo link. Failure to notify does not
+   invalidate the license grant, but notification is requested as a courtesy.
+
+4. Attribution
+   ------------
+   Redistributions of the Software or any Modified Work must include the
+   copyright notice above and a copy of this license. In addition, include
+   the OG repo link:
+      Original repository: <OG_REPO_URL>
+
+5. No Fees or Royalties
+   ---------------------
+   No fee, royalty, or licensing charge of any kind may be imposed on the use,
+   distribution, or publication of the Software or any Modified Work beyond the
+   obligations in this license (notification and OG repo link). C
